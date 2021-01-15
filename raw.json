@@ -1,0 +1,62 @@
+{"intents": [
+        {"tag": "technical skills",
+         "patterns": ["Word","Excel","Powerpoint","Outlook","Access","OneNote","mail merge","Excel","Google Sheets","OpenOffice","comparative analyses","pivot tables",
+           "macros","link to database","vertical lookups","C#","SQL","Java","C++","HTML","JavaScript","XML","C","Perl","Python","PHP","Objective-C","AJAX","ASP.NET","Ruby",
+         "Assessment","system knowledge","analytical skills","testing","calm mindset","problem-solving","logic","critical thinking skills","collaboration","communication",
+         "Analysis","conceptual skills","brainstorming","decision-making","forecasting","logistics","problem-solving skills","cost-assessment","requirements-gathering",
+          "Django","Node.js","Laravel","React","Cloud and Distributed Computing","Kubernetes","Docker","Azure","AWS","Machine Learning","TensorFlow","scikit-learn","Google Cloud ML Engine",
+           "AML","Microsoft Windows","macOS","Linux","OSCP","CISSP","Cisco CCNA","Certified Ethical Hacker (CEH)","CompTIA Security+","AutoCAD","MATLAB","Verilog","Simulink",
+           "Pspice","Multisim","ETAP","Big Data","Statistical analysis","data mining and modeling","database management"],
+          "responses": ["technical skills"]
+        },
+        {
+          "tag": "responsibilities",
+          "patterns": ["Worked with  for gathering data requirement","Created User stories backlog","Conducted  meetings","Oracle Certified Associate",
+            "Performed GAP analysis","Excellent knowledge in testing OLAP cubes, Composite and spot fire reports","interacted with users & developers","Created design for"," prepared Data Mapping document","Drafted document","executed  queries to validate the data quality",
+          "Executed requirement","Designed workflow diagrams","Developed training script, training plans","Created & Updated User","Managed various stakeholders"," resolve collateral disputes","Used",
+           "","Managed complete defect tracking lifecycle","\"Strong skills in performing System Integration, Acceptance, Functionality, Front End and GUI Testing, Smoke, Regression testing and UAT.",
+            "Communicated with","Java Standarad Edition 6 Programmer certified Professional Exam","Developed test scripts & test cases for system releases"," conducted","Arranged sessions and conference calls with different stakeholders","Coordinated with various actuaries",
+          "Assisted Data modeler in determining the data requirements and define the relationship between them using Logical, Conceptual and Physical data model","Designed test scenarios and test strategies to test data","Worked with QA team in reviewing test cases","Documented key challenges of the existing trading system","Gathered requirements for support",
+          "Excellent communication, interpersonal, intuitive, technical, analysis, problem solving skills. ","Extensively worked with cross functional teams","Authored progress reports, which were then submitted to Project management on a weekly basis","Understanding of financial protocols and networks such as SWIFT, FIX, and FpML","Excellent knowledge in Development and testing Big Data Hadoop\\u00a0ecosystem - Map Reduce, Hive, Oozie workflow and Sqoop."
+          ],
+          "responses": ["responsibilities"]
+        },
+        {
+          "tag": "headings",
+          "patterns": ["Professional Summary","Technical Skills","Operating Systems","Databases","Programming languages","Testing Tool"," Professional Experience","Description:","Responsibilities","Environment",
+          "Education","Project Management","jan","feb","mar","apr","may","jun","jul","aug","sept","oct","nov","dec"," Aug \\u201911 \\u2013 till date"],
+          "responses": ["headings"]
+        },
+        {
+          "tag": "educations",
+          "patterns": ["Bachelors of Science (Business Information System)","Bachelors in Engineering", "Computer Engineering","MBA","Masters in Computer Science"],
+          "responses": ["education"]
+        },
+        {
+          "tag": "Experience",
+          "patterns": ["8+ years of experience", "have 9 years of experience","worked in 5 years","have stayed 2 years","Experience of 10 plus years as a Business Analyst in designing, analyzing & conceptualizing solutions for Capital Markets, Global finance & Banking"],
+          "responses": ["experience"]
+        },
+        {
+          "tag": "positions",
+          "patterns": ["Sr. Business Analyst","Business Analyst","Network Administrator","Network Engineer","IT Project Manager","Systems Engineering Manager","IT Director",
+          "Vice President","CIO","CTO"],
+          "responses": ["positions"]
+        },
+        {
+          "tag": "company",
+          "patterns": ["company_name : Societe Generale, NY","company_name: Mizuho Securities, NY","company_name : ABX, NY","company_name: SLM, NY","company_name : ORR NY"],
+          "responses": ["company"]
+        },
+        {
+          "tag": "summary",
+          "patterns": ["Comprehensive knowledge of Capital market instruments & its lifecycle for e.g. Equity stocks (common & preferred), Future & Options, Forex, Forwards & Mutual Funds. "],
+          "responses": ["summary"]
+        },
+        {
+          "tag": "email/name",
+          "patterns": ["email: abdc@gmail.com ","email: def.abc@yahoo.com","email: dhefu@gmail.com","email: zes@hotmail.in","dhruv","ram rao","ksjtij","raj","kiran"],
+          "responses": ["email_name"]
+        }
+]
+}
